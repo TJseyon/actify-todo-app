@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1069594757567",
+    "project_id": "actify-fa83a",
+    "storage_bucket": "actify-fa83a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069594757567:android:115cf3cda8292c9668390a",
+        "android_client_info": {
+          "package_name": "com.example.actify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASyiT6u_7HILATG9muLtktz0VsdJgTb-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069594757567:android:edcd138ab096e02668390a",
+        "android_client_info": {
+          "package_name": "com.example.actify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASyiT6u_7HILATG9muLtktz0VsdJgTb-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
