@@ -32,9 +32,9 @@ Actify is a powerful task management application designed for seamless productiv
 - **UI Components**: Material Design with custom styling
 
 ## 📱 Screenshots / Video
-<img width="500" height="1200" alt="Screenshot_20260202_022402" src="https://github.com/user-attachments/assets/d131e507-6ca3-4862-982d-bab857416890" />
-<img width="500" height="1200" alt="Screenshot_20260202_022506" src="https://github.com/user-attachments/assets/7ca07324-8960-484d-a68d-5a714d2fddaa" />
-<img width="500" height="1200" alt="Screenshot_20260202_022321" src="https://github.com/user-attachments/assets/582b4ba0-bac4-4bc6-89c8-965fb5b44e80" />
+<img width="100" height="500" alt="Screenshot_20260202_022402" src="https://github.com/user-attachments/assets/d131e507-6ca3-4862-982d-bab857416890" />
+<img width="100" height="500" alt="Screenshot_20260202_022506" src="https://github.com/user-attachments/assets/7ca07324-8960-484d-a68d-5a714d2fddaa" />
+<img width="100" height="500" alt="Screenshot_20260202_022321" src="https://github.com/user-attachments/assets/582b4ba0-bac4-4bc6-89c8-965fb5b44e80" />
 
 
 ## 🔧 Installation & Setup
